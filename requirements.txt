@@ -1,0 +1,11 @@
+torch
+numpy==1.26.4
+pandas
+Pillow
+matplotlib
+tqdm
+scipy
+albumentations
+scikit-learn
+scikit-image
+tensorboard

@@ -1,0 +1,53 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Dataset and downloaded archives
+pbcseg_final_v1/
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Model checkpoints and training artifacts
+checkpoints/
+trained_models/
+runs/
+wandb/
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini

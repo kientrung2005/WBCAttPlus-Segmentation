@@ -1,0 +1,1031 @@
+img_name,label,cell_size,cell_shape,nucleus_shape,nuclear_cytoplasmic_ratio,chromatin_density,cytoplasm_vacuole,cytoplasm_texture,cytoplasm_colour,granule_type,granule_colour,granularity,path,split
+BNE_422954_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_422954_ccrop.jpg,val
+LY_883318_ccrop.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,frosted,purple blue,nil,nil,no,LY_883318_ccrop.jpg,val
+MO_173558_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,clear,light blue,nil,nil,no,MO_173558_ccrop.jpg,val
+EO_31665_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_31665_ccrop.jpg,val
+EO_652701_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_652701_ccrop.jpg,val
+EO_128458_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_128458_ccrop.jpg,val
+EO_530891_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_530891_ccrop.jpg,val
+LY_550491_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_550491_ccrop.jpg,val
+SNE_994402_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_994402_ccrop.jpg,val
+MO_187322_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,clear,blue,nil,nil,no,MO_187322_ccrop.jpg,val
+LY_517156_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_517156_ccrop.jpg,val
+EO_645275_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_645275_ccrop.jpg,val
+SNE_819515_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_819515_ccrop.jpg,val
+EO_378650_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_378650_ccrop.jpg,val
+MO_913613_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_913613_ccrop.jpg,val
+BNE_147698_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_147698_ccrop.jpg,val
+SNE_56069_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_56069_ccrop.jpg,val
+EO_670082_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_670082_ccrop.jpg,val
+SNE_183790_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_183790_ccrop.jpg,val
+MO_283783_ccrop.jpg,Monocyte,big,irregular,unsegmented-round,low,loosely,yes,frosted,light blue,nil,nil,no,MO_283783_ccrop.jpg,val
+BNE_863887_ccrop.jpg,Neutrophil,big,irregular,irregular,low,densely,no,clear,light blue,small,purple,yes,BNE_863887_ccrop.jpg,val
+BNE_6074_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_6074_ccrop.jpg,val
+MO_96000_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,high,densely,yes,frosted,purple blue,nil,nil,no,MO_96000_ccrop.jpg,val
+BA_767164_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_767164_ccrop.jpg,val
+EO_560727_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_560727_ccrop.jpg,val
+BA_434177_ccrop.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_434177_ccrop.jpg,val
+EO_340201_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_340201_ccrop.jpg,val
+EO_993513_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_993513_ccrop.jpg,val
+EO_487653_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_487653_ccrop.jpg,val
+EO_331664_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_331664_ccrop.jpg,val
+MO_399159_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_399159_ccrop.jpg,val
+EO_739713_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_739713_ccrop.jpg,val
+BNE_850956_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_850956_ccrop.jpg,val
+EO_458873_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_458873_ccrop.jpg,val
+EO_637980_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_637980_ccrop.jpg,val
+LY_44395_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_44395_ccrop.jpg,val
+EO_217076_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_217076_ccrop.jpg,val
+BA_68896_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_68896_ccrop.jpg,val
+SNE_223437_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_223437_ccrop.jpg,val
+MO_113841_ccrop.jpg,Monocyte,small,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_113841_ccrop.jpg,val
+SNE_491948_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_491948_ccrop.jpg,val
+SNE_614953_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_614953_ccrop.jpg,val
+SNE_352995_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_352995_ccrop.jpg,val
+BNE_195004_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_195004_ccrop.jpg,val
+EO_323058_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_323058_ccrop.jpg,val
+BA_35991_ccrop.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_35991_ccrop.jpg,val
+SNE_401509_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_401509_ccrop.jpg,val
+EO_949664_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,yes,clear,light blue,round,red,yes,EO_949664_ccrop.jpg,val
+MO_429133_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_429133_ccrop.jpg,val
+SNE_248543_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_248543_ccrop.jpg,val
+SNE_142694_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_142694_ccrop.jpg,val
+SNE_289676_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_289676_ccrop.jpg,val
+SNE_47527_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_47527_ccrop.jpg,val
+MO_142497_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,clear,blue,nil,nil,no,MO_142497_ccrop.jpg,val
+EO_893709_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_893709_ccrop.jpg,val
+MO_266780_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_266780_ccrop.jpg,val
+EO_432100_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_432100_ccrop.jpg,val
+MO_256427_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_256427_ccrop.jpg,val
+LY_209350_ccrop.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,purple blue,nil,nil,no,LY_209350_ccrop.jpg,val
+LY_249223_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_249223_ccrop.jpg,val
+MO_663123_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_663123_ccrop.jpg,val
+EO_726052_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_726052_ccrop.jpg,val
+BNE_951529_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_951529_ccrop.jpg,val
+SNE_719631_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_719631_ccrop.jpg,val
+SNE_730423_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_730423_ccrop.jpg,val
+BNE_956597_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_956597_ccrop.jpg,val
+EO_210086_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_210086_ccrop.jpg,val
+MO_446865_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_446865_ccrop.jpg,val
+EO_123704_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_123704_ccrop.jpg,val
+BNE_577568_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_577568_ccrop.jpg,val
+MO_94561_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,clear,light blue,nil,nil,no,MO_94561_ccrop.jpg,val
+MO_240882_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,clear,purple blue,nil,nil,no,MO_240882_ccrop.jpg,val
+LY_179236_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_179236_ccrop.jpg,val
+BNE_659706_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_659706_ccrop.jpg,val
+SNE_630026_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_630026_ccrop.jpg,val
+EO_13364_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_13364_ccrop.jpg,val
+MO_553342_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_553342_ccrop.jpg,val
+BNE_340725_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_340725_ccrop.jpg,val
+EO_729891_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_729891_ccrop.jpg,val
+EO_274574_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_274574_ccrop.jpg,val
+MO_245773_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_245773_ccrop.jpg,val
+EO_376623_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_376623_ccrop.jpg,val
+MO_794687_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_794687_ccrop.jpg,val
+MO_453943_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_453943_ccrop.jpg,val
+EO_783793_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_783793_ccrop.jpg,val
+SNE_968296_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,SNE_968296_ccrop.jpg,val
+MO_479584_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_479584_ccrop.jpg,val
+SNE_26596_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_26596_ccrop.jpg,val
+EO_901254_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_901254_ccrop.jpg,val
+SNE_937806_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_937806_ccrop.jpg,val
+SNE_745431_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_745431_ccrop.jpg,val
+MO_437529_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_437529_ccrop.jpg,val
+EO_333432_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_333432_ccrop.jpg,val
+EO_377830_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_377830_ccrop.jpg,val
+BNE_556405_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_556405_ccrop.jpg,val
+MO_635770_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_635770_ccrop.jpg,val
+EO_914393_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_914393_ccrop.jpg,val
+EO_105120_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_105120_ccrop.jpg,val
+MO_311939_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_311939_ccrop.jpg,val
+LY_526858_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_526858_ccrop.jpg,val
+EO_141524_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_141524_ccrop.jpg,val
+SNE_918028_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_918028_ccrop.jpg,val
+EO_553112_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_553112_ccrop.jpg,val
+LY_75762_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_75762_ccrop.jpg,val
+LY_106354_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_106354_ccrop.jpg,val
+EO_834382_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_834382_ccrop.jpg,val
+SNE_358297_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_358297_ccrop.jpg,val
+BNE_44826_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_44826_ccrop.jpg,val
+EO_906650_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_906650_ccrop.jpg,val
+BNE_928577_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_928577_ccrop.jpg,val
+EO_333712_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_333712_ccrop.jpg,val
+EO_87220_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_87220_ccrop.jpg,val
+LY_741846_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_741846_ccrop.jpg,val
+BNE_34065_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_34065_ccrop.jpg,val
+MO_12267_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,no,frosted,blue,nil,nil,no,MO_12267_ccrop.jpg,val
+BA_386187_ccrop.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_386187_ccrop.jpg,val
+BNE_759715_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_759715_ccrop.jpg,val
+LY_13675_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_13675_ccrop.jpg,val
+LY_519097_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_519097_ccrop.jpg,val
+EO_168236_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_168236_ccrop.jpg,val
+BA_616487_ccrop.jpg,Basophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_616487_ccrop.jpg,val
+LY_205694_ccrop.jpg,Lymphocyte,big,irregular,unsegmented-round,low,densely,no,frosted,purple blue,nil,nil,no,LY_205694_ccrop.jpg,val
+LY_305059_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,clear,blue,nil,nil,no,LY_305059_ccrop.jpg,val
+MO_605192_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,MO_605192_ccrop.jpg,val
+SNE_701866_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_701866_ccrop.jpg,val
+SNE_504600_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_504600_ccrop.jpg,val
+MO_101258_ccrop.jpg,Monocyte,big,irregular,unsegmented-round,low,loosely,yes,frosted,light blue,nil,nil,no,MO_101258_ccrop.jpg,val
+SNE_66862_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_66862_ccrop.jpg,val
+BA_808405_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_808405_ccrop.jpg,val
+SNE_754575_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_754575_ccrop.jpg,val
+EO_551942_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_551942_ccrop.jpg,val
+BNE_271699_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_271699_ccrop.jpg,val
+SNE_487530_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_487530_ccrop.jpg,val
+EO_812635_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_812635_ccrop.jpg,val
+BA_497822_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_497822_ccrop.jpg,val
+BNE_853528_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_853528_ccrop.jpg,val
+EO_189990_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_189990_ccrop.jpg,val
+BNE_960718_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_960718_ccrop.jpg,val
+EO_742968_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_742968_ccrop.jpg,val
+BA_435917_ccrop.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_435917_ccrop.jpg,val
+BNE_425475_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_425475_ccrop.jpg,val
+SNE_366402_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_366402_ccrop.jpg,val
+EO_836401_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_836401_ccrop.jpg,val
+LY_932486_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_932486_ccrop.jpg,val
+BA_991876_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_991876_ccrop.jpg,val
+LY_759072_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_759072_ccrop.jpg,val
+EO_390334_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_390334_ccrop.jpg,val
+EO_715291_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_715291_ccrop.jpg,val
+EO_740199_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_740199_ccrop.jpg,val
+SNE_784826_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_784826_ccrop.jpg,val
+SNE_79214_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_79214_ccrop.jpg,val
+BNE_447437_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_447437_ccrop.jpg,val
+SNE_621496_ccrop.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_621496_ccrop.jpg,val
+MO_571631_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_571631_ccrop.jpg,val
+BA_484450_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_484450_ccrop.jpg,val
+EO_999450_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_999450_ccrop.jpg,val
+LY_892611_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_892611_ccrop.jpg,val
+SNE_891808_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_891808_ccrop.jpg,val
+EO_261424_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_261424_ccrop.jpg,val
+EO_637008_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_637008_ccrop.jpg,val
+MO_775807_ccrop.jpg,Monocyte,small,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,MO_775807_ccrop.jpg,val
+BA_679732_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_679732_ccrop.jpg,val
+SNE_517174_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_517174_ccrop.jpg,val
+BA_447906_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_447906_ccrop.jpg,val
+SNE_181877_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_181877_ccrop.jpg,val
+EO_581311_ccrop.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_581311_ccrop.jpg,val
+EO_54103_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_54103_ccrop.jpg,val
+EO_358508_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_358508_ccrop.jpg,val
+EO_258433_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_258433_ccrop.jpg,val
+EO_601688_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_601688_ccrop.jpg,val
+BA_175269_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_175269_ccrop.jpg,val
+BNE_191112_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,BNE_191112_ccrop.jpg,val
+LY_440047_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_440047_ccrop.jpg,val
+BA_860031_ccrop.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_860031_ccrop.jpg,val
+LY_494497_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_494497_ccrop.jpg,val
+BA_459209_ccrop.jpg,Basophil,big,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_459209_ccrop.jpg,val
+BNE_179980_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_179980_ccrop.jpg,val
+EO_487054_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_487054_ccrop.jpg,val
+SNE_113869_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_113869_ccrop.jpg,val
+BNE_748204_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_748204_ccrop.jpg,val
+MO_123180_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_123180_ccrop.jpg,val
+BNE_387976_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BNE_387976_ccrop.jpg,val
+MO_558465_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_558465_ccrop.jpg,val
+EO_599188_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_599188_ccrop.jpg,val
+EO_444606_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_444606_ccrop.jpg,val
+BNE_178593_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_178593_ccrop.jpg,val
+BNE_46088_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_46088_ccrop.jpg,val
+MO_500300_ccrop.jpg,Monocyte,small,round,unsegmented-indented,high,loosely,no,frosted,purple blue,nil,nil,no,MO_500300_ccrop.jpg,val
+SNE_923091_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,yes,clear,light blue,small,pink,yes,SNE_923091_ccrop.jpg,val
+EO_692915_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_692915_ccrop.jpg,val
+EO_218533_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_218533_ccrop.jpg,val
+BA_2862_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_2862_ccrop.jpg,val
+LY_929854_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_929854_ccrop.jpg,val
+EO_254268_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_254268_ccrop.jpg,val
+EO_343324_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_343324_ccrop.jpg,val
+MO_519286_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,blue,nil,nil,no,MO_519286_ccrop.jpg,val
+MO_140976_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_140976_ccrop.jpg,val
+MO_321187_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_321187_ccrop.jpg,val
+LY_83666_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_83666_ccrop.jpg,val
+BNE_350976_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_350976_ccrop.jpg,val
+SNE_36531_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_36531_ccrop.jpg,val
+SNE_404174_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,yes,clear,light blue,small,pink,yes,SNE_404174_ccrop.jpg,val
+BA_130694_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_130694_ccrop.jpg,val
+EO_159974_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,loosely,no,clear,light blue,round,red,yes,EO_159974_ccrop.jpg,val
+EO_802945_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_802945_ccrop.jpg,val
+MO_775809_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_775809_ccrop.jpg,val
+SNE_325145_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_325145_ccrop.jpg,val
+LY_873630_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_873630_ccrop.jpg,val
+SNE_520928_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_520928_ccrop.jpg,val
+LY_130930_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_130930_ccrop.jpg,val
+MO_144254_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_144254_ccrop.jpg,val
+LY_875657_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_875657_ccrop.jpg,val
+BNE_905474_ccrop.jpg,Neutrophil,big,round,irregular,low,densely,no,clear,light blue,small,pink,yes,BNE_905474_ccrop.jpg,val
+BNE_158217_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_158217_ccrop.jpg,val
+EO_282222_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_282222_ccrop.jpg,val
+LY_45660_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,loosely,no,clear,light blue,nil,nil,no,LY_45660_ccrop.jpg,val
+BNE_671954_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_671954_ccrop.jpg,val
+BA_636027_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_636027_ccrop.jpg,val
+BNE_148682_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_148682_ccrop.jpg,val
+BNE_946465_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_946465_ccrop.jpg,val
+MO_993312_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_993312_ccrop.jpg,val
+BA_545506_ccrop.jpg,Basophil,small,irregular,irregular,low,densely,no,clear,light blue,small,purple,yes,BA_545506_ccrop.jpg,val
+SNE_153736_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_153736_ccrop.jpg,val
+BNE_139958_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_139958_ccrop.jpg,val
+BNE_578285_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_578285_ccrop.jpg,val
+EO_147464_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_147464_ccrop.jpg,val
+MO_372222_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_372222_ccrop.jpg,val
+EO_905351_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_905351_ccrop.jpg,val
+LY_192796_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_192796_ccrop.jpg,val
+BA_518773_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_518773_ccrop.jpg,val
+SNE_230831_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_230831_ccrop.jpg,val
+BNE_725331_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_725331_ccrop.jpg,val
+BA_147981_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_147981_ccrop.jpg,val
+BNE_330959_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_330959_ccrop.jpg,val
+BNE_797783_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_797783_ccrop.jpg,val
+EO_398276_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_398276_ccrop.jpg,val
+SNE_394622_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_394622_ccrop.jpg,val
+BA_139733_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_139733_ccrop.jpg,val
+LY_563513_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,LY_563513_ccrop.jpg,val
+SNE_513366_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_513366_ccrop.jpg,val
+EO_943855_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_943855_ccrop.jpg,val
+MO_84318_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,blue,nil,nil,no,MO_84318_ccrop.jpg,val
+BA_363451_ccrop.jpg,Basophil,small,irregular,unsegmented-indented,low,densely,no,clear,light blue,coarse,purple,yes,BA_363451_ccrop.jpg,val
+MO_888484_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_888484_ccrop.jpg,val
+BA_413080_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_413080_ccrop.jpg,val
+EO_108396_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_108396_ccrop.jpg,val
+LY_746004_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_746004_ccrop.jpg,val
+LY_834838_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,LY_834838_ccrop.jpg,val
+MO_562918_ccrop.jpg,Monocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,MO_562918_ccrop.jpg,val
+LY_625010_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_625010_ccrop.jpg,val
+SNE_133297_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_133297_ccrop.jpg,val
+BNE_343960_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_343960_ccrop.jpg,val
+MO_820730_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_820730_ccrop.jpg,val
+SNE_651779_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_651779_ccrop.jpg,val
+LY_722941_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_722941_ccrop.jpg,val
+BNE_831588_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_831588_ccrop.jpg,val
+SNE_773334_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_773334_ccrop.jpg,val
+BA_262646_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_262646_ccrop.jpg,val
+BA_93417_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_93417_ccrop.jpg,val
+MO_596314_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_596314_ccrop.jpg,val
+BNE_96863_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_96863_ccrop.jpg,val
+EO_806352_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_806352_ccrop.jpg,val
+SNE_36183_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_36183_ccrop.jpg,val
+BA_547170_ccrop.jpg,Basophil,small,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_547170_ccrop.jpg,val
+BNE_976754_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_976754_ccrop.jpg,val
+BA_468972_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_468972_ccrop.jpg,val
+EO_422295_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_422295_ccrop.jpg,val
+LY_872934_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,LY_872934_ccrop.jpg,val
+EO_223866_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_223866_ccrop.jpg,val
+BA_141631_ccrop.jpg,Basophil,small,round,irregular,high,densely,no,clear,light blue,coarse,purple,yes,BA_141631_ccrop.jpg,val
+LY_154997_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,LY_154997_ccrop.jpg,val
+BA_799126_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_799126_ccrop.jpg,val
+SNE_311362_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_311362_ccrop.jpg,val
+BNE_310148_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,loosely,yes,clear,light blue,small,pink,yes,BNE_310148_ccrop.jpg,val
+LY_613623_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_613623_ccrop.jpg,val
+EO_490551_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_490551_ccrop.jpg,val
+MO_440210_ccrop.jpg,Monocyte,big,irregular,unsegmented-round,low,densely,yes,frosted,purple blue,nil,nil,no,MO_440210_ccrop.jpg,val
+MO_564124_ccrop.jpg,Monocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,MO_564124_ccrop.jpg,val
+EO_341843_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_341843_ccrop.jpg,val
+BNE_338195_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_338195_ccrop.jpg,val
+SNE_129727_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_129727_ccrop.jpg,val
+EO_609494_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_609494_ccrop.jpg,val
+LY_386792_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,LY_386792_ccrop.jpg,val
+BNE_241705_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_241705_ccrop.jpg,val
+EO_625432_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_625432_ccrop.jpg,val
+SNE_376675_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_376675_ccrop.jpg,val
+EO_594721_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_594721_ccrop.jpg,val
+BNE_698403_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_698403_ccrop.jpg,val
+BNE_977712_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_977712_ccrop.jpg,val
+BA_89223_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_89223_ccrop.jpg,val
+BNE_403012_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_403012_ccrop.jpg,val
+EO_769464_ccrop.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_769464_ccrop.jpg,val
+LY_353550_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,LY_353550_ccrop.jpg,val
+BNE_818755_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_818755_ccrop.jpg,val
+SNE_307829_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_307829_ccrop.jpg,val
+EO_537164_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_537164_ccrop.jpg,val
+BA_266370_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_266370_ccrop.jpg,val
+LY_415793_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,low,densely,no,frosted,blue,nil,nil,no,LY_415793_ccrop.jpg,val
+BA_511856_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_511856_ccrop.jpg,val
+EO_261509_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_261509_ccrop.jpg,val
+EO_821178_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_821178_ccrop.jpg,val
+LY_665299_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_665299_ccrop.jpg,val
+BNE_704297_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_704297_ccrop.jpg,val
+EO_287971_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_287971_ccrop.jpg,val
+BA_499861_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_499861_ccrop.jpg,val
+EO_863038_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_863038_ccrop.jpg,val
+LY_771696_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_771696_ccrop.jpg,val
+BA_399438_ccrop.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_399438_ccrop.jpg,val
+BNE_79792_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_79792_ccrop.jpg,val
+BA_47_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_47_ccrop.jpg,val
+BNE_134080_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_134080_ccrop.jpg,val
+EO_576430_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_576430_ccrop.jpg,val
+EO_67379_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_67379_ccrop.jpg,val
+EO_823298_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_823298_ccrop.jpg,val
+BA_842957_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_842957_ccrop.jpg,val
+EO_447220_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_447220_ccrop.jpg,val
+MO_899210_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,MO_899210_ccrop.jpg,val
+BNE_779452_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_779452_ccrop.jpg,val
+SNE_975675_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_975675_ccrop.jpg,val
+EO_490207_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_490207_ccrop.jpg,val
+MO_189116_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_189116_ccrop.jpg,val
+SNE_399708_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_399708_ccrop.jpg,val
+BNE_747210_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_747210_ccrop.jpg,val
+BA_855924_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_855924_ccrop.jpg,val
+EO_918009_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_918009_ccrop.jpg,val
+SNE_880246_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_880246_ccrop.jpg,val
+MO_112202_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_112202_ccrop.jpg,val
+SNE_358253_ccrop.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,SNE_358253_ccrop.jpg,val
+BNE_814356_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_814356_ccrop.jpg,val
+BA_66312_ccrop.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_66312_ccrop.jpg,val
+EO_859248_ccrop.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_859248_ccrop.jpg,val
+EO_630551_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_630551_ccrop.jpg,val
+SNE_229212_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_229212_ccrop.jpg,val
+BA_395028_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_395028_ccrop.jpg,val
+LY_732043_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_732043_ccrop.jpg,val
+BA_490072_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_490072_ccrop.jpg,val
+EO_312108_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_312108_ccrop.jpg,val
+MO_172654_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_172654_ccrop.jpg,val
+EO_529838_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_529838_ccrop.jpg,val
+LY_37471_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_37471_ccrop.jpg,val
+EO_136177_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_136177_ccrop.jpg,val
+LY_699056_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_699056_ccrop.jpg,val
+EO_696559_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_696559_ccrop.jpg,val
+BNE_402878_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_402878_ccrop.jpg,val
+MO_834548_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,light blue,nil,nil,no,MO_834548_ccrop.jpg,val
+SNE_948962_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_948962_ccrop.jpg,val
+LY_359031_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_359031_ccrop.jpg,val
+SNE_471764_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_471764_ccrop.jpg,val
+SNE_86548_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_86548_ccrop.jpg,val
+EO_155334_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_155334_ccrop.jpg,val
+SNE_221448_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_221448_ccrop.jpg,val
+SNE_749679_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_749679_ccrop.jpg,val
+BNE_301694_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_301694_ccrop.jpg,val
+BA_19177_ccrop.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_19177_ccrop.jpg,val
+EO_407207_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_407207_ccrop.jpg,val
+MO_777817_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,MO_777817_ccrop.jpg,val
+EO_236154_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_236154_ccrop.jpg,val
+MO_902264_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_902264_ccrop.jpg,val
+EO_575911_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_575911_ccrop.jpg,val
+BA_588625_ccrop.jpg,Basophil,small,irregular,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_588625_ccrop.jpg,val
+BA_383070_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_383070_ccrop.jpg,val
+LY_865656_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_865656_ccrop.jpg,val
+EO_977622_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_977622_ccrop.jpg,val
+BNE_568376_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_568376_ccrop.jpg,val
+EO_623568_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_623568_ccrop.jpg,val
+EO_529065_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_529065_ccrop.jpg,val
+EO_321079_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_321079_ccrop.jpg,val
+BNE_509829_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_509829_ccrop.jpg,val
+LY_82173_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_82173_ccrop.jpg,val
+LY_461786_ccrop.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,blue,nil,nil,no,LY_461786_ccrop.jpg,val
+MO_541337_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_541337_ccrop.jpg,val
+SNE_302902_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_302902_ccrop.jpg,val
+LY_272765_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,low,densely,no,clear,purple blue,nil,nil,no,LY_272765_ccrop.jpg,val
+EO_176988_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_176988_ccrop.jpg,val
+MO_245512_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,clear,purple blue,nil,nil,no,MO_245512_ccrop.jpg,val
+MO_652110_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_652110_ccrop.jpg,val
+MO_341127_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_341127_ccrop.jpg,val
+BNE_787150_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_787150_ccrop.jpg,val
+BNE_522125_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_522125_ccrop.jpg,val
+EO_148818_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_148818_ccrop.jpg,val
+EO_716119_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_716119_ccrop.jpg,val
+LY_335261_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_335261_ccrop.jpg,val
+EO_535432_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_535432_ccrop.jpg,val
+SNE_70524_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_70524_ccrop.jpg,val
+MO_47583_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_47583_ccrop.jpg,val
+BNE_2234_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_2234_ccrop.jpg,val
+EO_938332_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_938332_ccrop.jpg,val
+BA_960438_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_960438_ccrop.jpg,val
+LY_29912_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_29912_ccrop.jpg,val
+LY_528736_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_528736_ccrop.jpg,val
+EO_243092_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_243092_ccrop.jpg,val
+EO_428208_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_428208_ccrop.jpg,val
+EO_926006_ccrop.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_926006_ccrop.jpg,val
+MO_905158_ccrop.jpg,Monocyte,big,irregular,irregular,low,densely,yes,frosted,purple blue,nil,nil,no,MO_905158_ccrop.jpg,val
+MO_263017_ccrop.jpg,Monocyte,big,round,unsegmented-round,low,loosely,no,frosted,blue,nil,nil,no,MO_263017_ccrop.jpg,val
+BA_532468_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_532468_ccrop.jpg,val
+BA_897436_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_897436_ccrop.jpg,val
+LY_326859_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_326859_ccrop.jpg,val
+EO_913784_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_913784_ccrop.jpg,val
+SNE_844272_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_844272_ccrop.jpg,val
+EO_32318_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_32318_ccrop.jpg,val
+MO_617871_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_617871_ccrop.jpg,val
+MO_526870_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_526870_ccrop.jpg,val
+EO_176538_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_176538_ccrop.jpg,val
+EO_42604_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_42604_ccrop.jpg,val
+EO_106564_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_106564_ccrop.jpg,val
+SNE_903691_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_903691_ccrop.jpg,val
+EO_793799_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_793799_ccrop.jpg,val
+BA_907484_ccrop.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_907484_ccrop.jpg,val
+SNE_528277_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_528277_ccrop.jpg,val
+MO_546259_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_546259_ccrop.jpg,val
+EO_237312_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_237312_ccrop.jpg,val
+BNE_697892_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_697892_ccrop.jpg,val
+MO_20976_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_20976_ccrop.jpg,val
+BA_578419_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_578419_ccrop.jpg,val
+MO_70005_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_70005_ccrop.jpg,val
+SNE_117234_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_117234_ccrop.jpg,val
+EO_906482_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_906482_ccrop.jpg,val
+SNE_846805_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_846805_ccrop.jpg,val
+LY_322867_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_322867_ccrop.jpg,val
+EO_780772_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_780772_ccrop.jpg,val
+BNE_141509_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_141509_ccrop.jpg,val
+BNE_60203_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_60203_ccrop.jpg,val
+EO_721078_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_721078_ccrop.jpg,val
+EO_326816_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_326816_ccrop.jpg,val
+EO_808282_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_808282_ccrop.jpg,val
+EO_741894_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_741894_ccrop.jpg,val
+MO_457075_ccrop.jpg,Monocyte,big,round,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_457075_ccrop.jpg,val
+MO_166163_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_166163_ccrop.jpg,val
+EO_630009_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_630009_ccrop.jpg,val
+EO_97369_ccrop.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_97369_ccrop.jpg,val
+BA_608112_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_608112_ccrop.jpg,val
+BA_631393_ccrop.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_631393_ccrop.jpg,val
+BNE_282906_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_282906_ccrop.jpg,val
+SNE_689406_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_689406_ccrop.jpg,val
+SNE_548349_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_548349_ccrop.jpg,val
+EO_267802_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_267802_ccrop.jpg,val
+BA_508288_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_508288_ccrop.jpg,val
+MO_929161_ccrop.jpg,Monocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,MO_929161_ccrop.jpg,val
+BNE_671361_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_671361_ccrop.jpg,val
+BNE_189978_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_189978_ccrop.jpg,val
+BNE_720265_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_720265_ccrop.jpg,val
+EO_389244_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_389244_ccrop.jpg,val
+EO_438939_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_438939_ccrop.jpg,val
+SNE_423353_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_423353_ccrop.jpg,val
+BNE_634126_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_634126_ccrop.jpg,val
+MO_902638_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_902638_ccrop.jpg,val
+EO_581610_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_581610_ccrop.jpg,val
+EO_182479_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_182479_ccrop.jpg,val
+BNE_800035_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_800035_ccrop.jpg,val
+LY_472256_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_472256_ccrop.jpg,val
+MO_104290_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,clear,purple blue,nil,nil,no,MO_104290_ccrop.jpg,val
+SNE_901674_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_901674_ccrop.jpg,val
+MO_423983_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_423983_ccrop.jpg,val
+BNE_944885_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_944885_ccrop.jpg,val
+EO_486480_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_486480_ccrop.jpg,val
+EO_524469_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_524469_ccrop.jpg,val
+BA_120688_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_120688_ccrop.jpg,val
+EO_100884_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_100884_ccrop.jpg,val
+BA_296615_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_296615_ccrop.jpg,val
+SNE_140435_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_140435_ccrop.jpg,val
+BA_500713_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_500713_ccrop.jpg,val
+EO_500806_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_500806_ccrop.jpg,val
+SNE_488521_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_488521_ccrop.jpg,val
+LY_333022_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_333022_ccrop.jpg,val
+LY_981011_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_981011_ccrop.jpg,val
+BNE_316390_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,loosely,no,clear,light blue,small,pink,yes,BNE_316390_ccrop.jpg,val
+MO_181047_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,clear,light blue,nil,nil,no,MO_181047_ccrop.jpg,val
+BA_569632_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_569632_ccrop.jpg,val
+BA_868537_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_868537_ccrop.jpg,val
+EO_305691_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_305691_ccrop.jpg,val
+MO_377470_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,clear,light blue,nil,nil,no,MO_377470_ccrop.jpg,val
+MO_701921_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_701921_ccrop.jpg,val
+LY_363396_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_363396_ccrop.jpg,val
+MO_950456_ccrop.jpg,Monocyte,small,irregular,unsegmented-indented,low,loosely,no,frosted,light blue,nil,nil,no,MO_950456_ccrop.jpg,val
+MO_792755_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_792755_ccrop.jpg,val
+BNE_860699_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_860699_ccrop.jpg,val
+LY_388079_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_388079_ccrop.jpg,val
+SNE_30720_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_30720_ccrop.jpg,val
+BNE_340421_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_340421_ccrop.jpg,val
+LY_320312_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_320312_ccrop.jpg,val
+SNE_518391_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_518391_ccrop.jpg,val
+SNE_848740_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_848740_ccrop.jpg,val
+BA_615482_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_615482_ccrop.jpg,val
+BNE_256260_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_256260_ccrop.jpg,val
+EO_23089841_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_23089841_ccrop.jpg,val
+BA_346352_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_346352_ccrop.jpg,val
+EO_348138_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_348138_ccrop.jpg,val
+LY_193211_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,LY_193211_ccrop.jpg,val
+BNE_131711_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_131711_ccrop.jpg,val
+BNE_580553_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_580553_ccrop.jpg,val
+LY_499539_ccrop.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,blue,nil,nil,no,LY_499539_ccrop.jpg,val
+SNE_672698_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_672698_ccrop.jpg,val
+MO_881031_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_881031_ccrop.jpg,val
+BNE_81939_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_81939_ccrop.jpg,val
+BNE_87643_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_87643_ccrop.jpg,val
+EO_273880_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_273880_ccrop.jpg,val
+BNE_763253_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_763253_ccrop.jpg,val
+SNE_589500_ccrop.jpg,Neutrophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_589500_ccrop.jpg,val
+BA_385552_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_385552_ccrop.jpg,val
+BA_331375_ccrop.jpg,Basophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_331375_ccrop.jpg,val
+EO_434081_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_434081_ccrop.jpg,val
+EO_659964_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_659964_ccrop.jpg,val
+BNE_243574_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_243574_ccrop.jpg,val
+BA_196807_ccrop.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_196807_ccrop.jpg,val
+EO_732204_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_732204_ccrop.jpg,val
+EO_847491_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_847491_ccrop.jpg,val
+BA_887335_ccrop.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_887335_ccrop.jpg,val
+EO_47754_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,loosely,no,clear,light blue,round,red,yes,EO_47754_ccrop.jpg,val
+SNE_633335_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_633335_ccrop.jpg,val
+EO_174412_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_174412_ccrop.jpg,val
+EO_767118_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_767118_ccrop.jpg,val
+SNE_808855_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_808855_ccrop.jpg,val
+BNE_315212_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_315212_ccrop.jpg,val
+BA_555760_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_555760_ccrop.jpg,val
+BA_330244_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_330244_ccrop.jpg,val
+EO_240687_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_240687_ccrop.jpg,val
+EO_291685_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_291685_ccrop.jpg,val
+SNE_566153_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_566153_ccrop.jpg,val
+MO_597310_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_597310_ccrop.jpg,val
+MO_507377_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_507377_ccrop.jpg,val
+BNE_776969_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_776969_ccrop.jpg,val
+SNE_645203_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_645203_ccrop.jpg,val
+EO_816399_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_816399_ccrop.jpg,val
+BA_147402_ccrop.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_147402_ccrop.jpg,val
+MO_842653_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_842653_ccrop.jpg,val
+MO_522395_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_522395_ccrop.jpg,val
+SNE_679601_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_679601_ccrop.jpg,val
+MO_362677_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,clear,purple blue,nil,nil,no,MO_362677_ccrop.jpg,val
+SNE_692597_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_692597_ccrop.jpg,val
+EO_956212_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_956212_ccrop.jpg,val
+BA_700831_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_700831_ccrop.jpg,val
+EO_901206_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_901206_ccrop.jpg,val
+SNE_218093_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_218093_ccrop.jpg,val
+NEUTROPHIL_816359_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,NEUTROPHIL_816359_ccrop.jpg,val
+BNE_203314_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_203314_ccrop.jpg,val
+SNE_713759_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_713759_ccrop.jpg,val
+SNE_502348_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_502348_ccrop.jpg,val
+LY_671537_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_671537_ccrop.jpg,val
+SNE_374094_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_374094_ccrop.jpg,val
+MO_612179_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_612179_ccrop.jpg,val
+LY_500326_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_500326_ccrop.jpg,val
+SNE_64091_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_64091_ccrop.jpg,val
+EO_512539_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_512539_ccrop.jpg,val
+MO_595972_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_595972_ccrop.jpg,val
+EO_901002_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_901002_ccrop.jpg,val
+EO_178978_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_178978_ccrop.jpg,val
+LY_644595_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,clear,blue,nil,nil,no,LY_644595_ccrop.jpg,val
+BA_250620_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_250620_ccrop.jpg,val
+BNE_813359_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_813359_ccrop.jpg,val
+EO_812799_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_812799_ccrop.jpg,val
+BNE_862462_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_862462_ccrop.jpg,val
+BA_178345_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_178345_ccrop.jpg,val
+EO_285298_ccrop.jpg,Eosinophil,big,irregular,irregular,low,loosely,no,clear,light blue,coarse,red,yes,EO_285298_ccrop.jpg,val
+MO_836516_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_836516_ccrop.jpg,val
+BNE_253464_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_253464_ccrop.jpg,val
+BNE_296916_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_296916_ccrop.jpg,val
+MO_555398_ccrop.jpg,Monocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,MO_555398_ccrop.jpg,val
+LY_785608_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_785608_ccrop.jpg,val
+BNE_206551_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_206551_ccrop.jpg,val
+EO_420606_ccrop.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_420606_ccrop.jpg,val
+EO_728292_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_728292_ccrop.jpg,val
+SNE_32210_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_32210_ccrop.jpg,val
+EO_962063_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_962063_ccrop.jpg,val
+BNE_665149_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_665149_ccrop.jpg,val
+EO_72747_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_72747_ccrop.jpg,val
+EO_401601_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_401601_ccrop.jpg,val
+SNE_205163_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_205163_ccrop.jpg,val
+EO_995267_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_995267_ccrop.jpg,val
+EO_422401_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_422401_ccrop.jpg,val
+SNE_610007_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_610007_ccrop.jpg,val
+EO_425258_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_425258_ccrop.jpg,val
+BNE_259972_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_259972_ccrop.jpg,val
+EO_676375_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_676375_ccrop.jpg,val
+BA_60560_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_60560_ccrop.jpg,val
+SNE_605370_ccrop.jpg,Neutrophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_605370_ccrop.jpg,val
+EO_188271_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_188271_ccrop.jpg,val
+BNE_954079_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_954079_ccrop.jpg,val
+SNE_893365_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_893365_ccrop.jpg,val
+LY_776538_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_776538_ccrop.jpg,val
+EO_651856_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_651856_ccrop.jpg,val
+BNE_279168_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_279168_ccrop.jpg,val
+SNE_893880_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_893880_ccrop.jpg,val
+BA_98903_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_98903_ccrop.jpg,val
+SNE_415544_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_415544_ccrop.jpg,val
+MO_959704_ccrop.jpg,Monocyte,big,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,MO_959704_ccrop.jpg,val
+BA_93721_ccrop.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_93721_ccrop.jpg,val
+EO_187031_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_187031_ccrop.jpg,val
+BA_581736_ccrop.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_581736_ccrop.jpg,val
+MO_479670_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_479670_ccrop.jpg,val
+LY_32523_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_32523_ccrop.jpg,val
+BA_55966_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_55966_ccrop.jpg,val
+BA_845828_ccrop.jpg,Basophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_845828_ccrop.jpg,val
+SNE_181343_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_181343_ccrop.jpg,val
+MO_510602_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_510602_ccrop.jpg,val
+BNE_773284_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_773284_ccrop.jpg,val
+BA_229935_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_229935_ccrop.jpg,val
+EO_580802_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_580802_ccrop.jpg,val
+EO_823567_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_823567_ccrop.jpg,val
+MO_382707_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_382707_ccrop.jpg,val
+LY_718085_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_718085_ccrop.jpg,val
+MO_121190_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_121190_ccrop.jpg,val
+MO_87252_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_87252_ccrop.jpg,val
+BNE_664333_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_664333_ccrop.jpg,val
+MO_939651_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_939651_ccrop.jpg,val
+SNE_873947_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,yes,clear,light blue,small,pink,yes,SNE_873947_ccrop.jpg,val
+BNE_331752_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_331752_ccrop.jpg,val
+EO_74267_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_74267_ccrop.jpg,val
+EO_859907_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_859907_ccrop.jpg,val
+LY_925681_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_925681_ccrop.jpg,val
+SNE_87596_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_87596_ccrop.jpg,val
+LY_60114_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_60114_ccrop.jpg,val
+SNE_304452_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_304452_ccrop.jpg,val
+MO_427035_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_427035_ccrop.jpg,val
+EO_981447_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_981447_ccrop.jpg,val
+SNE_224062_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_224062_ccrop.jpg,val
+EO_566829_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_566829_ccrop.jpg,val
+BNE_690093_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_690093_ccrop.jpg,val
+SNE_891096_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_891096_ccrop.jpg,val
+BA_583166_ccrop.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_583166_ccrop.jpg,val
+BA_600449_ccrop.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_600449_ccrop.jpg,val
+EO_580287_ccrop.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_580287_ccrop.jpg,val
+EO_749176_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_749176_ccrop.jpg,val
+EO_90576_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_90576_ccrop.jpg,val
+BNE_233886_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_233886_ccrop.jpg,val
+BNE_640458_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_640458_ccrop.jpg,val
+BNE_77911_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_77911_ccrop.jpg,val
+EO_851864_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_851864_ccrop.jpg,val
+EO_565158_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_565158_ccrop.jpg,val
+BA_533618_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_533618_ccrop.jpg,val
+LY_136218_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,light blue,nil,nil,no,LY_136218_ccrop.jpg,val
+LY_156281_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,clear,blue,nil,nil,no,LY_156281_ccrop.jpg,val
+EO_488297_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_488297_ccrop.jpg,val
+EO_222109_ccrop.jpg,Eosinophil,big,round,unsegmented-indented,low,densely,no,clear,light blue,round,red,yes,EO_222109_ccrop.jpg,val
+MO_375691_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_375691_ccrop.jpg,val
+MO_807936_ccrop.jpg,Monocyte,big,irregular,unsegmented-round,low,densely,no,frosted,blue,nil,nil,no,MO_807936_ccrop.jpg,val
+LY_472472_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,LY_472472_ccrop.jpg,val
+EO_136333_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_136333_ccrop.jpg,val
+BNE_360932_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_360932_ccrop.jpg,val
+EO_784861_ccrop.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_784861_ccrop.jpg,val
+SNE_13626_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_13626_ccrop.jpg,val
+EO_752024_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_752024_ccrop.jpg,val
+EO_675086_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_675086_ccrop.jpg,val
+SNE_30327_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_30327_ccrop.jpg,val
+SNE_287997_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_287997_ccrop.jpg,val
+BA_221648_ccrop.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_221648_ccrop.jpg,val
+SNE_775439_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_775439_ccrop.jpg,val
+SNE_134204_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_134204_ccrop.jpg,val
+MO_973782_ccrop.jpg,Monocyte,big,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,MO_973782_ccrop.jpg,val
+BNE_982036_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_982036_ccrop.jpg,val
+SNE_183410_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_183410_ccrop.jpg,val
+EO_908273_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_908273_ccrop.jpg,val
+EO_928662_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_928662_ccrop.jpg,val
+EO_700078_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_700078_ccrop.jpg,val
+EO_140611_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_140611_ccrop.jpg,val
+SNE_353210_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_353210_ccrop.jpg,val
+SNE_778015_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_778015_ccrop.jpg,val
+MO_208701_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,light blue,nil,nil,no,MO_208701_ccrop.jpg,val
+BA_842435_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_842435_ccrop.jpg,val
+LY_459766_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,LY_459766_ccrop.jpg,val
+EO_657836_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_657836_ccrop.jpg,val
+EO_651122_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_651122_ccrop.jpg,val
+BA_312613_ccrop.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_312613_ccrop.jpg,val
+SNE_117404_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_117404_ccrop.jpg,val
+BNE_989783_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_989783_ccrop.jpg,val
+BA_669399_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_669399_ccrop.jpg,val
+SNE_207129_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_207129_ccrop.jpg,val
+EO_25099_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_25099_ccrop.jpg,val
+BA_379570_ccrop.jpg,Basophil,small,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_379570_ccrop.jpg,val
+EO_662683_ccrop.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_662683_ccrop.jpg,val
+MO_898984_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_898984_ccrop.jpg,val
+BNE_631061_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_631061_ccrop.jpg,val
+LY_644290_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,loosely,no,clear,purple blue,nil,nil,no,LY_644290_ccrop.jpg,val
+LY_228644_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_228644_ccrop.jpg,val
+BNE_734743_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_734743_ccrop.jpg,val
+EO_854168_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_854168_ccrop.jpg,val
+EO_99246_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_99246_ccrop.jpg,val
+EO_850777_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_850777_ccrop.jpg,val
+BNE_223780_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_223780_ccrop.jpg,val
+BA_945489_ccrop.jpg,Basophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_945489_ccrop.jpg,val
+SNE_416964_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_416964_ccrop.jpg,val
+BA_462686_ccrop.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_462686_ccrop.jpg,val
+BA_608126_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_608126_ccrop.jpg,val
+EO_580259_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_580259_ccrop.jpg,val
+MO_923859_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_923859_ccrop.jpg,val
+SNE_656626_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_656626_ccrop.jpg,val
+EO_344782_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_344782_ccrop.jpg,val
+MO_847530_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_847530_ccrop.jpg,val
+LY_86378_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_86378_ccrop.jpg,val
+EO_948738_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_948738_ccrop.jpg,val
+BNE_2019_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_2019_ccrop.jpg,val
+BNE_233841_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_233841_ccrop.jpg,val
+EO_859353_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_859353_ccrop.jpg,val
+EO_94450_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_94450_ccrop.jpg,val
+LY_736101_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_736101_ccrop.jpg,val
+SNE_995183_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_995183_ccrop.jpg,val
+EO_77567_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_77567_ccrop.jpg,val
+EO_342472_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_342472_ccrop.jpg,val
+EO_692427_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_692427_ccrop.jpg,val
+EO_114325_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_114325_ccrop.jpg,val
+SNE_10487_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_10487_ccrop.jpg,val
+EO_474344_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_474344_ccrop.jpg,val
+MO_812031_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_812031_ccrop.jpg,val
+EO_592257_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_592257_ccrop.jpg,val
+EO_844230_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_844230_ccrop.jpg,val
+LY_948750_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_948750_ccrop.jpg,val
+SNE_310178_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_310178_ccrop.jpg,val
+BNE_191922_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_191922_ccrop.jpg,val
+MO_788806_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_788806_ccrop.jpg,val
+SNE_477716_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_477716_ccrop.jpg,val
+BA_273021_ccrop.jpg,Basophil,small,round,unsegmented-indented,low,densely,no,clear,light blue,coarse,purple,yes,BA_273021_ccrop.jpg,val
+SNE_465184_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_465184_ccrop.jpg,val
+EO_731622_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_731622_ccrop.jpg,val
+MO_543694_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_543694_ccrop.jpg,val
+BA_237864_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_237864_ccrop.jpg,val
+EO_50923_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_50923_ccrop.jpg,val
+EO_243737_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_243737_ccrop.jpg,val
+SNE_503826_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_503826_ccrop.jpg,val
+EO_318207_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_318207_ccrop.jpg,val
+BNE_920389_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_920389_ccrop.jpg,val
+MO_768683_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,MO_768683_ccrop.jpg,val
+SNE_883350_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_883350_ccrop.jpg,val
+SNE_969977_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_969977_ccrop.jpg,val
+EO_459049_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_459049_ccrop.jpg,val
+EO_489904_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_489904_ccrop.jpg,val
+BNE_143161_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_143161_ccrop.jpg,val
+SNE_899888_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_899888_ccrop.jpg,val
+BNE_464962_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_464962_ccrop.jpg,val
+EO_390994_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_390994_ccrop.jpg,val
+SNE_556448_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_556448_ccrop.jpg,val
+SNE_273217_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_273217_ccrop.jpg,val
+EO_554617_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_554617_ccrop.jpg,val
+MO_243203_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,clear,light blue,nil,nil,no,MO_243203_ccrop.jpg,val
+MO_133442_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_133442_ccrop.jpg,val
+SNE_670650_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_670650_ccrop.jpg,val
+BNE_494447_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_494447_ccrop.jpg,val
+LY_953443_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_953443_ccrop.jpg,val
+EO_322937_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_322937_ccrop.jpg,val
+EO_690157_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_690157_ccrop.jpg,val
+BNE_856701_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_856701_ccrop.jpg,val
+BNE_309792_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_309792_ccrop.jpg,val
+EO_663448_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_663448_ccrop.jpg,val
+LY_776513_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_776513_ccrop.jpg,val
+SNE_902951_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_902951_ccrop.jpg,val
+SNE_249286_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_249286_ccrop.jpg,val
+EO_198665_ccrop.jpg,Eosinophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_198665_ccrop.jpg,val
+BNE_393835_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_393835_ccrop.jpg,val
+BNE_202023_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_202023_ccrop.jpg,val
+EO_112172_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_112172_ccrop.jpg,val
+EO_910529_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_910529_ccrop.jpg,val
+EO_401749_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_401749_ccrop.jpg,val
+LY_517503_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_517503_ccrop.jpg,val
+BA_773446_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_773446_ccrop.jpg,val
+MO_250567_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_250567_ccrop.jpg,val
+BNE_518814_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_518814_ccrop.jpg,val
+SNE_449711_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_449711_ccrop.jpg,val
+BA_176200_ccrop.jpg,Basophil,big,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_176200_ccrop.jpg,val
+BNE_317666_ccrop.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_317666_ccrop.jpg,val
+LY_137344_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_137344_ccrop.jpg,val
+EO_809683_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_809683_ccrop.jpg,val
+EO_78863_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_78863_ccrop.jpg,val
+LY_894569_ccrop.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,frosted,purple blue,nil,nil,no,LY_894569_ccrop.jpg,val
+EO_872983_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_872983_ccrop.jpg,val
+EO_451304_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_451304_ccrop.jpg,val
+BNE_774908_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_774908_ccrop.jpg,val
+BA_455128_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_455128_ccrop.jpg,val
+BNE_989323_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_989323_ccrop.jpg,val
+EO_624586_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_624586_ccrop.jpg,val
+MO_688290_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_688290_ccrop.jpg,val
+EO_97617_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_97617_ccrop.jpg,val
+BNE_357413_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_357413_ccrop.jpg,val
+EO_48961_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_48961_ccrop.jpg,val
+MO_503237_ccrop.jpg,Monocyte,small,round,unsegmented-round,low,loosely,no,frosted,blue,nil,nil,no,MO_503237_ccrop.jpg,val
+EO_167439_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_167439_ccrop.jpg,val
+BNE_277695_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_277695_ccrop.jpg,val
+MO_432101_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_432101_ccrop.jpg,val
+LY_19758_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_19758_ccrop.jpg,val
+EO_503298_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_503298_ccrop.jpg,val
+SNE_646915_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_646915_ccrop.jpg,val
+BA_582405_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_582405_ccrop.jpg,val
+EO_262006_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_262006_ccrop.jpg,val
+EO_697422_ccrop.jpg,Eosinophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_697422_ccrop.jpg,val
+BNE_953017_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_953017_ccrop.jpg,val
+MO_781541_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_781541_ccrop.jpg,val
+BA_665657_ccrop.jpg,Basophil,big,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_665657_ccrop.jpg,val
+EO_894574_ccrop.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_894574_ccrop.jpg,val
+BA_629211_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_629211_ccrop.jpg,val
+EO_233895_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_233895_ccrop.jpg,val
+EO_390478_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_390478_ccrop.jpg,val
+SNE_198347_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_198347_ccrop.jpg,val
+BNE_296618_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_296618_ccrop.jpg,val
+BNE_698291_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_698291_ccrop.jpg,val
+BA_636364_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_636364_ccrop.jpg,val
+EO_740068_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_740068_ccrop.jpg,val
+LY_741548_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_741548_ccrop.jpg,val
+BNE_276258_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_276258_ccrop.jpg,val
+EO_697519_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_697519_ccrop.jpg,val
+EO_11818_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,loosely,no,clear,light blue,round,red,yes,EO_11818_ccrop.jpg,val
+SNE_139869_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_139869_ccrop.jpg,val
+SNE_876406_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_876406_ccrop.jpg,val
+SNE_70315_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_70315_ccrop.jpg,val
+SNE_12708_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_12708_ccrop.jpg,val
+BA_692284_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_692284_ccrop.jpg,val
+LY_800603_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_800603_ccrop.jpg,val
+EO_647911_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_647911_ccrop.jpg,val
+EO_73774_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_73774_ccrop.jpg,val
+EO_809901_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_809901_ccrop.jpg,val
+LY_47439_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_47439_ccrop.jpg,val
+BNE_590664_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_590664_ccrop.jpg,val
+EO_900162_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_900162_ccrop.jpg,val
+EO_642190_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_642190_ccrop.jpg,val
+EO_378811_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_378811_ccrop.jpg,val
+EO_215761_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_215761_ccrop.jpg,val
+EO_521292_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_521292_ccrop.jpg,val
+EO_850494_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_850494_ccrop.jpg,val
+BNE_496119_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_496119_ccrop.jpg,val
+SNE_838035_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_838035_ccrop.jpg,val
+MO_987913_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,light blue,nil,nil,no,MO_987913_ccrop.jpg,val
+MO_774156_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_774156_ccrop.jpg,val
+EO_146612_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_146612_ccrop.jpg,val
+EO_741404_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_741404_ccrop.jpg,val
+BNE_142830_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_142830_ccrop.jpg,val
+MO_665320_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_665320_ccrop.jpg,val
+BA_812946_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_812946_ccrop.jpg,val
+LY_967233_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_967233_ccrop.jpg,val
+EO_278646_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_278646_ccrop.jpg,val
+EO_454445_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_454445_ccrop.jpg,val
+MO_732547_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,MO_732547_ccrop.jpg,val
+BA_509334_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_509334_ccrop.jpg,val
+BA_746754_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_746754_ccrop.jpg,val
+BA_679849_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_679849_ccrop.jpg,val
+EO_775512_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_775512_ccrop.jpg,val
+EO_711696_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_711696_ccrop.jpg,val
+BA_446850_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_446850_ccrop.jpg,val
+BNE_608268_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_608268_ccrop.jpg,val
+BA_177230_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_177230_ccrop.jpg,val
+MO_500297_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_500297_ccrop.jpg,val
+SNE_319893_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_319893_ccrop.jpg,val
+BNE_358190_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_358190_ccrop.jpg,val
+EO_706620_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_706620_ccrop.jpg,val
+MO_963169_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,blue,nil,nil,no,MO_963169_ccrop.jpg,val
+SNE_33661_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_33661_ccrop.jpg,val
+SNE_833646_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_833646_ccrop.jpg,val
+EO_324596_ccrop.jpg,Eosinophil,small,round,unsegmented-indented,low,densely,no,clear,light blue,round,red,yes,EO_324596_ccrop.jpg,val
+MO_258431_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_258431_ccrop.jpg,val
+EO_902685_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_902685_ccrop.jpg,val
+MO_363879_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_363879_ccrop.jpg,val
+EO_532512_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_532512_ccrop.jpg,val
+BA_618018_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_618018_ccrop.jpg,val
+EO_15818_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_15818_ccrop.jpg,val
+BNE_605529_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_605529_ccrop.jpg,val
+MO_7582_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,MO_7582_ccrop.jpg,val
+BNE_438674_ccrop.jpg,Neutrophil,small,round,irregular,low,densely,no,clear,light blue,small,pink,yes,BNE_438674_ccrop.jpg,val
+MO_340650_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,light blue,nil,nil,no,MO_340650_ccrop.jpg,val
+SNE_651622_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_651622_ccrop.jpg,val
+SNE_801347_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_801347_ccrop.jpg,val
+LY_893448_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_893448_ccrop.jpg,val
+BNE_136347_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_136347_ccrop.jpg,val
+SNE_929963_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_929963_ccrop.jpg,val
+BNE_47650_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_47650_ccrop.jpg,val
+LY_642004_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_642004_ccrop.jpg,val
+MO_312237_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,clear,purple blue,nil,nil,no,MO_312237_ccrop.jpg,val
+SNE_497960_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_497960_ccrop.jpg,val
+EO_379388_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_379388_ccrop.jpg,val
+MO_56423_ccrop.jpg,Monocyte,small,round,unsegmented-indented,high,loosely,no,frosted,blue,nil,nil,no,MO_56423_ccrop.jpg,val
+BA_208485_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_208485_ccrop.jpg,val
+EO_445288_ccrop.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_445288_ccrop.jpg,val
+MO_525648_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_525648_ccrop.jpg,val
+EO_132073_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_132073_ccrop.jpg,val
+BA_768965_ccrop.jpg,Basophil,big,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_768965_ccrop.jpg,val
+BA_659962_ccrop.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_659962_ccrop.jpg,val
+BNE_615813_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_615813_ccrop.jpg,val
+BNE_273083_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_273083_ccrop.jpg,val
+MO_189430_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,MO_189430_ccrop.jpg,val
+BNE_164709_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_164709_ccrop.jpg,val
+EO_504168_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_504168_ccrop.jpg,val
+BNE_53949_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_53949_ccrop.jpg,val
+BNE_391140_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_391140_ccrop.jpg,val
+EO_583175_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_583175_ccrop.jpg,val
+BA_255913_ccrop.jpg,Basophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_255913_ccrop.jpg,val
+BNE_324608_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_324608_ccrop.jpg,val
+MO_134551_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_134551_ccrop.jpg,val
+EO_788031_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_788031_ccrop.jpg,val
+BNE_768872_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_768872_ccrop.jpg,val
+BNE_528434_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_528434_ccrop.jpg,val
+SNE_603329_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_603329_ccrop.jpg,val
+MO_889379_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_889379_ccrop.jpg,val
+EO_69115_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_69115_ccrop.jpg,val
+EO_155983_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_155983_ccrop.jpg,val
+BNE_371756_ccrop.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_371756_ccrop.jpg,val
+SNE_257590_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_257590_ccrop.jpg,val
+LY_791031_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_791031_ccrop.jpg,val
+LY_480700_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_480700_ccrop.jpg,val
+EO_673822_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_673822_ccrop.jpg,val
+MO_610112_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,MO_610112_ccrop.jpg,val
+BA_956552_ccrop.jpg,Basophil,small,irregular,unsegmented-round,low,densely,no,clear,light blue,coarse,purple,yes,BA_956552_ccrop.jpg,val
+MO_344440_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,MO_344440_ccrop.jpg,val
+LY_722199_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_722199_ccrop.jpg,val
+MO_352748_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_352748_ccrop.jpg,val
+LY_554741_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,low,densely,no,frosted,purple blue,nil,nil,no,LY_554741_ccrop.jpg,val
+SNE_982751_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_982751_ccrop.jpg,val
+EO_3799_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_3799_ccrop.jpg,val
+MO_301812_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_301812_ccrop.jpg,val
+MO_262114_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,light blue,nil,nil,no,MO_262114_ccrop.jpg,val
+LY_123421_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_123421_ccrop.jpg,val
+MO_246145_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,light blue,nil,nil,no,MO_246145_ccrop.jpg,val
+LY_612323_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,light blue,nil,nil,no,LY_612323_ccrop.jpg,val
+EO_446449_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_446449_ccrop.jpg,val
+SNE_533941_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_533941_ccrop.jpg,val
+EO_749539_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_749539_ccrop.jpg,val
+EO_255525_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_255525_ccrop.jpg,val
+EO_788042_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_788042_ccrop.jpg,val
+MO_179303_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_179303_ccrop.jpg,val
+EO_500493_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_500493_ccrop.jpg,val
+SNE_465183_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_465183_ccrop.jpg,val
+LY_758422_ccrop.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,LY_758422_ccrop.jpg,val
+LY_446605_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_446605_ccrop.jpg,val
+EO_573590_ccrop.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_573590_ccrop.jpg,val
+BA_437113_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_437113_ccrop.jpg,val
+BNE_333349_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_333349_ccrop.jpg,val
+BNE_473596_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_473596_ccrop.jpg,val
+EO_350212_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_350212_ccrop.jpg,val
+BNE_181280_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_181280_ccrop.jpg,val
+SNE_603296_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_603296_ccrop.jpg,val
+SNE_419387_ccrop.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_419387_ccrop.jpg,val
+EO_35975_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_35975_ccrop.jpg,val
+SNE_756802_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_756802_ccrop.jpg,val
+BA_285156_ccrop.jpg,Basophil,small,round,unsegmented-round,low,densely,no,clear,light blue,coarse,purple,yes,BA_285156_ccrop.jpg,val
+SNE_180156_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_180156_ccrop.jpg,val
+EO_786059_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_786059_ccrop.jpg,val
+EO_824579_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_824579_ccrop.jpg,val
+LY_781116_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_781116_ccrop.jpg,val
+LY_384251_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,LY_384251_ccrop.jpg,val
+LY_133266_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_133266_ccrop.jpg,val
+MO_45274_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_45274_ccrop.jpg,val
+BNE_436813_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_436813_ccrop.jpg,val
+EO_402565_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_402565_ccrop.jpg,val
+BNE_749441_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_749441_ccrop.jpg,val
+EO_490251_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_490251_ccrop.jpg,val
+BA_457610_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_457610_ccrop.jpg,val
+EO_795119_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_795119_ccrop.jpg,val
+EO_410004_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_410004_ccrop.jpg,val
+BA_879878_ccrop.jpg,Basophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_879878_ccrop.jpg,val
+BA_19779_ccrop.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_19779_ccrop.jpg,val
+LY_310482_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_310482_ccrop.jpg,val
+BA_870464_ccrop.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_870464_ccrop.jpg,val
+EO_190201_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_190201_ccrop.jpg,val
+EO_379318_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_379318_ccrop.jpg,val
+BNE_129921_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_129921_ccrop.jpg,val
+BNE_554685_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_554685_ccrop.jpg,val
+SNE_874551_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_874551_ccrop.jpg,val
+LY_442238_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_442238_ccrop.jpg,val
+LY_752478_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_752478_ccrop.jpg,val
+EO_944985_ccrop.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_944985_ccrop.jpg,val
+EO_315883_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_315883_ccrop.jpg,val
+EO_557988_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_557988_ccrop.jpg,val
+MO_216299_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_216299_ccrop.jpg,val
+MO_678002_ccrop.jpg,Monocyte,big,irregular,irregular,low,densely,yes,frosted,purple blue,nil,nil,no,MO_678002_ccrop.jpg,val
+BNE_225758_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,BNE_225758_ccrop.jpg,val
+EO_116336_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_116336_ccrop.jpg,val
+EO_483841_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_483841_ccrop.jpg,val
+BNE_358306_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_358306_ccrop.jpg,val
+EO_642891_ccrop.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_642891_ccrop.jpg,val
+BNE_565424_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_565424_ccrop.jpg,val
+EO_303404_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_303404_ccrop.jpg,val
+SNE_780200_ccrop.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_780200_ccrop.jpg,val
+MO_701687_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,MO_701687_ccrop.jpg,val
+EO_991521_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,yes,clear,light blue,round,red,yes,EO_991521_ccrop.jpg,val
+BNE_38320_ccrop.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_38320_ccrop.jpg,val
+SNE_371956_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_371956_ccrop.jpg,val
+EO_943221_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_943221_ccrop.jpg,val
+EO_921575_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_921575_ccrop.jpg,val
+MO_23087_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,MO_23087_ccrop.jpg,val
+BA_305833_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_305833_ccrop.jpg,val
+BNE_540699_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_540699_ccrop.jpg,val
+BA_949913_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_949913_ccrop.jpg,val
+LY_670000_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_670000_ccrop.jpg,val
+BA_936898_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_936898_ccrop.jpg,val
+SNE_43921_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_43921_ccrop.jpg,val
+LY_815802_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,LY_815802_ccrop.jpg,val
+BNE_556085_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_556085_ccrop.jpg,val
+EO_552215_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_552215_ccrop.jpg,val
+BA_163898_ccrop.jpg,Basophil,big,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_163898_ccrop.jpg,val
+EO_816467_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_816467_ccrop.jpg,val
+SNE_934241_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_934241_ccrop.jpg,val
+SNE_310817_ccrop.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_310817_ccrop.jpg,val
+LY_357552_ccrop.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,purple blue,nil,nil,no,LY_357552_ccrop.jpg,val
+SNE_815811_ccrop.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,SNE_815811_ccrop.jpg,val
+BNE_980007_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_980007_ccrop.jpg,val
+BNE_193611_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_193611_ccrop.jpg,val
+MO_218905_ccrop.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_218905_ccrop.jpg,val
+EO_514883_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_514883_ccrop.jpg,val
+SNE_313880_ccrop.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_313880_ccrop.jpg,val
+LY_733471_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,LY_733471_ccrop.jpg,val
+BNE_839282_ccrop.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,BNE_839282_ccrop.jpg,val
+MO_236347_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,clear,purple blue,nil,nil,no,MO_236347_ccrop.jpg,val
+EO_540748_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_540748_ccrop.jpg,val
+SNE_864961_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_864961_ccrop.jpg,val
+MO_551084_ccrop.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,clear,blue,nil,nil,no,MO_551084_ccrop.jpg,val
+EO_417637_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_417637_ccrop.jpg,val
+BNE_596393_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_596393_ccrop.jpg,val
+SNE_333218_ccrop.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,SNE_333218_ccrop.jpg,val
+BA_681430_ccrop.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,BA_681430_ccrop.jpg,val
+EO_526408_ccrop.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,EO_526408_ccrop.jpg,val
+BNE_962214_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_962214_ccrop.jpg,val
+LY_921451_ccrop.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_921451_ccrop.jpg,val
+BNE_707427_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_707427_ccrop.jpg,val
+EO_150174_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_150174_ccrop.jpg,val
+BNE_596329_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_596329_ccrop.jpg,val
+EO_166091_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_166091_ccrop.jpg,val
+BA_991965_ccrop.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_991965_ccrop.jpg,val
+EO_366584_ccrop.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_366584_ccrop.jpg,val
+BA_38810_ccrop.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,BA_38810_ccrop.jpg,val
+EO_663412_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_663412_ccrop.jpg,val
+MO_659296_ccrop.jpg,Monocyte,big,irregular,irregular,low,densely,yes,frosted,purple blue,nil,nil,no,MO_659296_ccrop.jpg,val
+BNE_951815_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,BNE_951815_ccrop.jpg,val
+MO_362118_ccrop.jpg,Monocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,MO_362118_ccrop.jpg,val
+BA_961470_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_961470_ccrop.jpg,val
+BNE_249469_ccrop.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,BNE_249469_ccrop.jpg,val
+EO_230805_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_230805_ccrop.jpg,val
+EO_910069_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_910069_ccrop.jpg,val
+EO_66567_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_66567_ccrop.jpg,val
+EO_466996_ccrop.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_466996_ccrop.jpg,val
+MO_146598_ccrop.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,MO_146598_ccrop.jpg,val
+BA_124938_ccrop.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,BA_124938_ccrop.jpg,val
+LY_217524_ccrop.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,LY_217524_ccrop.jpg,val
+EO_25947_ccrop.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,EO_25947_ccrop.jpg,val
+SNE_159393_ccrop.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,SNE_159393_ccrop.jpg,val
+MO_569269_ccrop.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,MO_569269_ccrop.jpg,val
+EO_2755_ccrop.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,EO_2755_ccrop.jpg,val
